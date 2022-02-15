@@ -43,7 +43,7 @@ int main ()
     while (t--)
     {
         int n1, n2, n3;
-        cin >> n1 >> n2 >> n3;
+        cinn >> n1 >> n2 >> n3;
         int A[n1];
         int B[n2];
         int C[n3];
